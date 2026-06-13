@@ -1,0 +1,6 @@
+{
+  "name": "NutriScan AI",
+  "description": "AI-powered nutrition tracking built for Indian diets — from thalis to smoothie bowls.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
